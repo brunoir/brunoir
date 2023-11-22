@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and software in general, currently focusing in Front-End.
-- 🎓 &nbsp; Studying Systems Development Analysis @ Estácio.
-- 💼 &nbsp; Looking for an internship job as a Front-End Developer.
+- 🎓 &nbsp; Graduated in Systems Development Analysis @ Estácio.
+- 💼 &nbsp; Looking for jobs opportunities as a Front-End Developer.
 - 🌱 &nbsp; Learning more about UX/UI Design and Web Development.
 - ✍️ &nbsp; I'm passionate about writing, books & movies. I'm based in Brazil, but I speak English too!
 
